@@ -12,4 +12,4 @@
 
 00001122442440sp@al.educacao.sp.gov.br
 
-<img src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" alt="a cartoon character is making a stop sign"/>!
+<img src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" alt="a cartoon character is making a stop sign"/>
